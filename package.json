@@ -1,6 +1,6 @@
 {
   "name": "proas2_app",
-  "version": "2.3.218",
+  "version": "2.3.234",
   "description": "A mysql API example",
   "main": "server.js",
   "scripts": {
