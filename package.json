@@ -1,6 +1,6 @@
 {
   "name": "proas2_app",
-  "version": "2.3.247",
+  "version": "2.3.248",
   "description": "A mysql API example",
   "main": "server.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git clone https://vicent76@bitbucket.org/ariadnasw/proas2_app.git"
   },
-  "author": "",
+  "author": "Vicent Ribera <vicent@myaradna.com>",
   "license": "MIT",
   "homepage": "https://vicent76@bitbucket.org/ariadnasw/proas2_app.git",
   "dependencies": {
