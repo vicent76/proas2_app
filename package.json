@@ -1,7 +1,13 @@
 {
   "name": "proas2_app",
-  "version": "2.4.13",
-  "description": "A mysql API example",
+  "version": "2.4.21",
+  "description": "Aplicación de gestión de reparaciones de Ariadna Software",
+  "authors": [
+    {
+      "name": "Vicent Ribera",
+      "email": "vicent@myaradna.com"
+    }
+  ],
   "main": "server.js",
   "scripts": {
     "debug": "nodemon server.js",
@@ -12,7 +18,6 @@
     "type": "git",
     "url": "git clone https://vicent76@bitbucket.org/ariadnasw/proas2_app.git"
   },
-  "author": "Vicent Ribera <vicent@myaradna.com>",
   "license": "MIT",
   "homepage": "https://vicent76@bitbucket.org/ariadnasw/proas2_app.git",
   "dependencies": {
